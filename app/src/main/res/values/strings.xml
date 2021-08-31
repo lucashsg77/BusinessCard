@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Business Card</string>
+    <string name="businessCard">Business Card</string>
+    <string name="addNewCardButton">Add new card button</string>
+    <string name="closeAddBusinessCardActivity">Close add business card activity</string>
+    <string name="newCard">New Card</string>
+    <string name="nameHint">Name</string>
+    <string name="phoneHint">Phone</string>
+    <string name="emailHint" translatable="false">E-mail</string>
+    <string name="companyHint">Company</string>
+    <string name="confirmBtnTxt">Confirm</string>
+    <string name="successToast">Card created successfully</string>
+    <string name="shareLabel">Share</string>
+    <string name="successPrintToast">Print captured with success</string>
+    <string name="cardDeletedSnackbar">Card Deleted</string>
+    <string name="snackBarAction">Undo</string>
+</resources>

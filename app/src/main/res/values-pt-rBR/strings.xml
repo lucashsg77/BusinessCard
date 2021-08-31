@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="businessCard">Cartão de Negócios</string>
+    <string name="addNewCardButton">"Adicionar novo cartão de negócios "</string>
+    <string name="closeAddBusinessCardActivity">Fecha a atividade de adicionar novo cartão de negócios</string>
+    <string name="newCard">Novo Cartão</string>
+    <string name="nameHint">Nome</string>
+    <string name="phoneHint">Telefone</string>
+    <string name="companyHint">Empresa</string>
+    <string name="confirmBtnTxt">Confirmar</string>
+    <string name="successToast">Cartão criado com sucesso</string>
+    <string name="shareLabel">Compartilhar</string>
+    <string name="successPrintToast">Print capturado com sucesso</string>
+    <string name="cardDeletedSnackbar">Cartão excluído</string>
+    <string name="snackBarAction">Desfazer</string>
+</resources>
